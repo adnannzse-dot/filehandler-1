@@ -12,3 +12,4 @@ C:\Users\adnan\OneDrive\Desktop\Csharp-projects\filehandler\obj\Debug\net10.0\re
 C:\Users\adnan\OneDrive\Desktop\Csharp-projects\filehandler\obj\Debug\net10.0\filehandler.pdb
 C:\Users\adnan\OneDrive\Desktop\Csharp-projects\filehandler\obj\Debug\net10.0\filehandler.genruntimeconfig.cache
 C:\Users\adnan\OneDrive\Desktop\Csharp-projects\filehandler\obj\Debug\net10.0\ref\filehandler.dll
+C:\Users\adnan\OneDrive\Desktop\Csharp-projects\filehandler\obj\Debug\net10.0\filehandler.sourcelink.json
